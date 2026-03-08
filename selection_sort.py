@@ -1,3 +1,7 @@
+# o selection é um método de organização
+#  que procura o menor item de uma lista
+#  e o salva em outra lista assim organizando-a
+
 def menor_index(arr):
 
     menor = arr[0]
