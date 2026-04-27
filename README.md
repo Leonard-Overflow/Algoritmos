@@ -1,4 +1,16 @@
 # Algoritmos
-Uma série de algoritmos em Python 3.13 para treinar.
 
-Estou lendo alguns livros de programação e lógica além de pesquisar sobre os assuntos. Quero praticar os conceitos aprendidos então criei este repositório para desenvolver algoritmos que aprendi e criar alguns códigos misturando-os para praticar. Em cada código terá uma parte de comentários explicando a lógica e o conceito.
+## Objetivo
+Nesse repositório havera algoritmos que simples que encontro, coloco eles nesse repositório apenas para armazenar e para treino.
+
+## Tecnologias utilizadas
+**PyCharm** como IDE.  
+**Python** 3.13 como linguagem.  
+**Git** para versionamento.  
+**Git hub** para armazenamento em nuvem.  
+**HTTPS** como protocolo de transferência.  
+
+## Como executar 
+Certifique-se de ter o Python 3.13 instalado. Para rodar qualquer script:
+```bash
+python nom_do_arquio.py

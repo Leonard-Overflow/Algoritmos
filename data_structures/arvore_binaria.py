@@ -4,8 +4,8 @@
 # igual ou menor que o item procurado
 
 from math import floor
-from bubblesort import bubblesort
-from bubblesort import lista
+from ordenacao.bubblesort import bubblesort
+from ordenacao.bubblesort import lista
 
 def arvore_binaria(lista, item):
     baixo = lista[0]
